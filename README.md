@@ -1,17 +1,13 @@
-#Tandemloop_Screening_Phase 1_Test
+#Tandemloop Screening Test
 
-#Language Used:
+#Programming Language Used:
 Java
 
-#Files Included:
-- Program-1.java
-- Program-2.java
-- Program-3.java
-- Program-4.java
+#Comment Information:
+All programs contain in-code comments explaining:
+- Input usage
+- Logic and conditions
+- Loops and calculations
+- Output behavior
 
-Each program includes comments and follows the test instructions.
-
-### How to Run:
-Use any Java IDE (IntelliJ, Eclipse) or run in terminal:
-javac Program-1.java
-java Program1
+Comments are provided inside each .java file for clarity.
